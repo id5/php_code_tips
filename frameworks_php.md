@@ -8,24 +8,15 @@ ajude editando e melhorando essa sessão.
 
 ## Frameworks
 
-# CakePHP
+### CakePHP
 
 O projeto CAKE PHP é um dos primeiros a tomar a comunidade brasileira na primeira metade dos anos de 2000. 
 
-*Site:*
+**Site:** [cakephp.org](http://cakephp.org/)
 
-*Documentação e API:*
+**Documentação e API:** [cakephp.org/pages/documentation](http://cakephp.org/pages/documentation)
 
-*GitHUB:*
-
-*Forúm:*
-
-*Facebook:*
-
-*Twitter:*
-
-*Chats:*
-
+**GitHUB:** [github.com/cakephp/cakephp/](https://github.com/cakephp/cakephp/)
 
 
 # Yii Framework
