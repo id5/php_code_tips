@@ -1,10 +1,12 @@
 # Frameworks PHP
 
-Abaixo um catalogo dos principais frameworks do mercado. Estão listados em ordem alfabética, ou seja, isto não é um ranking, ok?
+Abaixo um catalogo dos principais frameworks do mercado. 
+
+Estão listados em ordem alfabética, ou seja, isto não é um ranking, ok?
 
 ## Contribuição
 
-ajude editando e melhorando essa sessão.
+Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um ranking nem uma batalha, então seja imparcial e pontue certamento o correto sem exageros sobre seu framework de uso ou predileto.
 
 ## Frameworks
 
@@ -12,7 +14,11 @@ ajude editando e melhorando essa sessão.
 
 ![Logo](https://avatars3.githubusercontent.com/u/23666?v=3&s=200)
 
-O projeto CAKE PHP é um dos primeiros a tomar a comunidade brasileira na primeira metade dos anos de 2000. 
+CakePHP é um framework escrito em PHP que tem como principais objetivos oferecer uma estrutura que possibilite aos programadores de PHP de todos os níveis desenvolverem aplicações robustas rapidamente, sem perder flexibilidade.
+
+O Cake-PHP utiliza conceitos de engenharia de software e padrões de projeto bem-conhecidos, tais como ActiveRecord, Association Data Mapping, Convenção sobre configuração, Front Controller e MVC (Model-View-Controller).
+
+Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
 
 **Site:** [cakephp.org](http://cakephp.org/)
 
