@@ -10,6 +10,8 @@ ajude editando e melhorando essa sessão.
 
 ### CakePHP
 
+![Logo](https://avatars3.githubusercontent.com/u/23666?v=3&s=200)
+
 O projeto CAKE PHP é um dos primeiros a tomar a comunidade brasileira na primeira metade dos anos de 2000. 
 
 **Site:** [cakephp.org](http://cakephp.org/)
