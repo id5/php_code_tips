@@ -6,13 +6,8 @@ Use, abuse e contribua!
 
 ## Índice 
 
-[Ambientes de desenvolvimento](#)
+[Frameworks PHP]()
 
-[Conexão Banco Dados com MySQL PDO](#)
-
-[Conexão Banco Dados com MSSQL PDO](#)
-
-[Conexão Banco Dados com POSTGRESS PDO](#)
 
 
 
