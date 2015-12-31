@@ -27,39 +27,18 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
 **GitHUB:** [github.com/cakephp/cakephp/](https://github.com/cakephp/cakephp/)
 
 
-# Yii Framework
+### Yii Framework
 
-Surgido no final dos anos de 2000, atualmente na sua segunda versão, que foi um refatoração radical da primeira versão, o YII é um poderoso framework MVC integrado ao BOOTSTRAP como contrutor de interfaces web (GUI)
+![Logo](https://avatars2.githubusercontent.com/u/993323?v=3&s=200)
 
+Yii é um framework de alta performance em PHP que utiliza componentes para o desenvolvimento de pequenas/médias/grandes aplicações Web. Permite máxima reutilização de códigos na programação Web e pode acelerar significativamente o processo de desenvolvimento. 
 
-*Site:*
+O nome Yii (pronunciado I ou Di) representa as palavras Yes It Is! (Sim isto é!), em resposta às mais comuns perguntas ao que escolhem a plataforma Yii: Isto é seguro? ... Isto é rápido? ... Isto é profissional? ... Isto é certo para o meu próximo projeto? ... Sim Isto é!
 
-*Documentação e API:*
+Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
-*GitHUB:*
+*Site:* [yiiframework.com](http://www.yiiframework.com/)
 
-*Forúm:*
+*Documentação e API:* [Guia](http://www.yiiframework.com/doc-2.0/guide-index.html) e [API](http://www.yiiframework.com/doc-2.0/index.html)
 
-*Facebook:*
-
-*Twitter:*
-
-*Chats:*
-
-
-# Zend Framework
-
-
-*Site:*
-
-*Documentação e API:*
-
-*GitHUB:*
-
-*Forúm:*
-
-*Facebook:*
-
-*Twitter:*
-
-*Chats:*
+*GitHUB:* [github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)
