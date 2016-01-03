@@ -35,8 +35,9 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
 ### - CodeIgniter
 
 
-### Fat-Free Framework
+### - Fat-Free Framework
 
+### - Hazaar MVC
 
 ### - Kohana PHP
 
@@ -62,6 +63,8 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 ### - PHPDevShell
 
+### - PHPixie
+
 ### - PHP Fuel
 
 ### - Phalcon PHP
@@ -76,4 +79,7 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 ### - Zend Framework
 
+### - Ziluka
+
 ### - Zoop PHP Framework
+
