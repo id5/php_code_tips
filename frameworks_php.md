@@ -13,7 +13,13 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 
 ### - Adianti Framework 
 
+### - Agile ToolKit
+
 ### - Akelos PHP
+
+### - Banshee 
+
+### - ClanCats
 
 ### - CakePHP
 
@@ -39,6 +45,8 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
 
 ### - Hazaar MVC
 
+### - Jelix 
+
 ### - Kohana PHP
 
 ### - Yii Framework
@@ -59,6 +67,10 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 ### - Laravel
 
+### - Mako Framework
+
+### - Mouf
+
 ### - Nette
 
 ### - PHPDevShell
@@ -75,6 +87,10 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 ### - Symfony 
 
+### - Slim MicroFramework For PHP
+
+### - SolarPHP
+  
 ### - ThinkPHP
 
 ### - Zend Framework
