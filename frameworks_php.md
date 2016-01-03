@@ -13,9 +13,13 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 
 ### - Adianti Framework 
 
+### - Agavi
+
 ### - Agile ToolKit
 
 ### - Akelos PHP
+
+### - Aura For PHP
 
 ### - Banshee 
 
@@ -43,6 +47,8 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
 
 ### - Fat-Free Framework
 
+### - Flight
+
 ### - Hazaar MVC
 
 ### - Jelix 
@@ -67,6 +73,10 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 ### - Laravel
 
+### - Li3
+
+### - Lumen MicroFramework
+
 ### - Mako Framework
 
 ### - Mouf
@@ -77,6 +87,8 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 ### - PHPixie
 
+### - PHP Coupé
+
 ### - PHP Fuel
 
 ### - Phalcon PHP
@@ -84,6 +96,8 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 ### - Prado PHP Framework
 
 ### - Silex 
+
+### - Simple PHP Framework
 
 ### - Symfony 
 
