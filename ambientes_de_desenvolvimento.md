@@ -17,3 +17,11 @@ Para instalar um ambiente WAMP a coisa é wizard. Geralmente são levantados, ca
 Alguns conjuntos, ou pacotes, são disponibilizados 
 
 ## Virtualziando Ambientes de desenvolvimento
+
+Desenvolvedores mais experientes entram em detrimento com as formas acima de se montar ambientes. Mesmo sendo as formas acimas capazes disponibilizar o ambiente para desenvolver PHP, a forma como que isso é feito não é um fator gerador, ou agregador, de qualidade ao processo como um todo.
+
+Em um artigo publicado na web, Martin Fowler, Engenheiro de Software, Autor renomado e um dos que endorsam o celebre manifesto do desenvolvimento ágil, trata justamente da fragilidade de manter ambientes de desenvolvimento assim.
+
+Básicamente ele compara Servidores montados de forma manual a floco de neve moldados a mão, ótimos para um resort de férias, pessimo para infraestrutura e centro de dados. Ou seja, cada ambiente é único.
+
+
