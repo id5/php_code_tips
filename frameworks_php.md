@@ -102,19 +102,35 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 ### - Prado PHP Framework
 
+![Logo](https://avatars0.githubusercontent.com/u/5450617?v=3&s=200)
+
+O PRADO é um framework de desenvolvimento de aplicações web em PHP5 que utiliza componentes e eventos em sua implementação e usa o padrão MVC, que separa lógica da apresentação. PRADO é uma sigla inglesa que significa Desenvolvimento Rápido de Aplicações em PHP, em inglês, PHP Rapid Application Development.
+
+Uma de suas principais características é a realização de código, ou seja, o desenvolvimento utiliza não só o seu próprio código, mas também aproveita outros códigos escritos por membros de sua equipe ou mesmo disponíveis na internet, de forma rápida e fácil. Fonte [DevMidea](http://www.devmedia.com.br/apresentando-o-framework-php-prado/27526)
+
+
 ### - Silex 
+
 
 ### - Simple PHP Framework
 
+
 ### - Symfony 
+
 
 ### - Slim MicroFramework For PHP
 
+
 ### - SolarPHP
+  
   
 ### - ThinkPHP
 
+
 ### - Zend Framework
+
+Zend Framework é um framework para aplicações Web de código aberto, orientado a objetos, implementado em PHP 5 e licenciado sob a New BSD License. Zend Framework—freqüentemente referido como ZF—é desenvolvido com o objetivo de simplificar o desenvolvimento web enquanto promove as melhores práticas na comunidade de desenvolvedores PHP.
+A arquitetura use-a-vontade do ZF permite que os desenvolvedores reutilizem componentes quando e onde eles fizerem sentido em suas aplicações sem requerer outros componentes ZF além das dependências mínimas. Não há portanto nenhum paradigma ou padrão que todos os usuários Zend Framework devam seguir, embora ZF forneça componentes para os padrões de projeto MVC e Table Gateway que são usados na maioria das aplicações ZF. Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Zend_Framework)
 
 ### - Ziluka
 
