@@ -11,8 +11,11 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 
 ## Frameworks
 
+### - Adianti Framework 
 
-### CakePHP
+### - Akelos PHP
+
+### - CakePHP
 
 ![Logo](https://avatars3.githubusercontent.com/u/23666?v=3&s=200)
 
@@ -31,13 +34,13 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
 
 ### - CodeIgniter
 
-### - Phalcon PHP
+
+### Fat-Free Framework
 
 
-### Kohana PHP
+### - Kohana PHP
 
-
-### Yii Framework
+### - Yii Framework
 
 ![Logo](https://avatars2.githubusercontent.com/u/993323?v=3&s=200)
 
@@ -53,6 +56,24 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 *GitHUB:* [github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)
 
-### Laravel
+### - Laravel
 
-### Zend Framework
+### - Nette
+
+### - PHPDevShell
+
+### - PHP Fuel
+
+### - Phalcon PHP
+
+### - Prado PHP Framework
+
+### - Silex 
+
+### - Symfony 
+
+### - ThinkPHP
+
+### - Zend Framework
+
+### - Zoop PHP Framework
