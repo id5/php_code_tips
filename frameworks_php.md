@@ -15,11 +15,16 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 
 #### - Adianti Framework 
 
+Adianti Framework para PHP é uma arquitetura open-source baseada em padrões de projeto, voltada para a criação ágil de aplicações de negócio em PHP. Busca reduzir os custos de desenvolvimento por oferecer componentes de alto nível para criação de formulários, datagrids, relatórios e outros. Voltado para o desenvolvimento de sistemas; Oferece componentes de alto nível; Manipulação simplificada do banco de dados; Templates para criação de sistemas; Controle de login, permissão de acesso, logs. Fonte [Site Adianti.com.br](http://www.adianti.com.br/framework)
+
+
 ### - Agavi
 
 Agavi is a PHP web application framework that follows the Model-view-controller design pattern. It does not use the convention over configuration paradigm, but focuses on design decisions, which allow for better scalability. Fonte [Wikipedia](https://en.wikipedia.org/wiki/Agavi)
 
 ### - Agile ToolKit
+
+Agile Toolkit PHP oferece uma maneira fácil e livre de preocupações para construir, implantar e aplicações web escala . Se você é novo no desenvolvimento web, Agile Toolkit é a maneira mais fácil de obter o seu aplicativo da web on- line.
 
 ### - Akelos PHP
 
