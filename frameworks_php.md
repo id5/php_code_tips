@@ -1,12 +1,14 @@
 # Frameworks PHP
 
-Abaixo um catalogo dos principais frameworks do mercado. 
+Abaixo um cátalogo dos principais frameworks do mercado. 
 
-Estão listados em ordem alfabética, ou seja, isto não é um ranking, ok?
+Estão listados em ordem alfabética, ou seja, isto não é um ranking, e sim uma lista, ok? 
+
+São considerados frameworks ativas (com versão recente) e com ao menos uma página oficial online. Não necessáriasmente apenas opções open source, mas todo framework possível de se catalogar nessa sessão sobre PHP.
 
 ## Contribuição
 
-Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um ranking nem uma batalha, então seja imparcial e pontue certamento o correto sem exageros sobre seu framework de uso ou predileto.
+Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um ranking nem uma batalha, então seja imparcial e pontue certamento o correto sem exageros sobre seu framework de uso ou predileto, Pull Requests são bem vindos.
 
 
 ## Frameworks
@@ -14,6 +16,8 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 #### - Adianti Framework 
 
 ### - Agavi
+
+Agavi is a PHP web application framework that follows the Model-view-controller design pattern. It does not use the convention over configuration paradigm, but focuses on design decisions, which allow for better scalability. Fonte [Wikipedia](https://en.wikipedia.org/wiki/Agavi)
 
 ### - Agile ToolKit
 
@@ -31,9 +35,7 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 
 CakePHP é um framework escrito em PHP que tem como principais objetivos oferecer uma estrutura que possibilite aos programadores de PHP de todos os níveis desenvolverem aplicações robustas rapidamente, sem perder flexibilidade.
 
-O Cake-PHP utiliza conceitos de engenharia de software e padrões de projeto bem-conhecidos, tais como ActiveRecord, Association Data Mapping, Convenção sobre configuração, Front Controller e MVC (Model-View-Controller).
-
-Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
+O Cake-PHP utiliza conceitos de engenharia de software e padrões de projeto bem-conhecidos, tais como ActiveRecord, Association Data Mapping, Convenção sobre configuração, Front Controller e MVC (Model-View-Controller). Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CakePHP)
 
 **Site:** [cakephp.org](http://cakephp.org/)
 
