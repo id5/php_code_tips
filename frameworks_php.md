@@ -14,7 +14,9 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 ## Frameworks
 
 #### - Adianti Framework 
-!(Logo)[http://www.adianti.com.br/templates/images/adianti.png]
+
+![Logo](http://www.adianti.com.br/templates/images/adianti.png)
+
 Adianti Framework para PHP é uma arquitetura open-source baseada em padrões de projeto, voltada para a criação ágil de aplicações de negócio em PHP. Busca reduzir os custos de desenvolvimento por oferecer componentes de alto nível para criação de formulários, datagrids, relatórios e outros. Voltado para o desenvolvimento de sistemas; Oferece componentes de alto nível; Manipulação simplificada do banco de dados; Templates para criação de sistemas; Controle de login, permissão de acesso, logs. Fonte [Site Adianti.com.br](http://www.adianti.com.br/framework)
 
 
