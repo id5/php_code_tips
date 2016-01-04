@@ -37,6 +37,12 @@ Agile Toolkit PHP oferece uma maneira fácil e livre de preocupações para cons
 
 ### - Akelos PHP
 
+O Akelos é um framework de código aberto portado do Ruby on Rails para a linguagem de programação PHP. Ele tem toda a intenção de trazer ao PHP o mundo Rails.
+
+O principal objetivo do Akelos Framework é ajudar os programadores a criar aplicações web multilingua com banco de dados de acordo com o padrão MVC . Ele permite que você escreva menos código, favorecendo convenções sobre configuração. Fonte [GitHub](https://github.com/akelos/akelos)
+
+
+
 ### - Aura For PHP
 
 ### - Banshee 
@@ -60,16 +66,38 @@ O Cake-PHP utiliza conceitos de engenharia de software e padrões de projeto bem
 
 ### - CodeIgniter
 
+O CodeIgniter permite que se mantenha o foco em um projeto, minimizando a quantidade de código necessário para uma dada tarefa.
+
+CodeIgniter foi desenvolvido sobre o paradigma da programação Orientada a Objetos sob o padrão de arquitetura de software MVC, mas também já dá suporte à metodologia HMVC, um nível hierárquico acima, absorvendo cada tríade MVC, tornando-a modular e, até certo ponto, independente das demais. Por ser mais recente e não nativo do Code Igniter, o HMVC exige o download de alguns arquivos e a criação do diretório 'Modules' para que funcione corretamente.
+
+Este padrão de arquitetura de software vem sendo adotado como uma solução para a separação das camadas de código e abstrações de objetos por diversas outras plataformas e linguagens de programação como o ASP.NET, Java, Ruby on Rails entre outros. Essa recorrência no uso desta arquitetura tem feito autores apontarem MVC também como um design pattern. Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CodeIgniter)
+
 
 ### - Fat-Free Framework
 
+Fat-Free Framework is an open-source web application framework distributed under the GNU General Public License and hosted by GitHub and Sourceforge. The source code (~50KB) is written almost entirely in PHP and engineered specifically with user experience and usability as its primary design goals.  Commonly called F3 by PHP developers, Fat-Free was released as free software in 2009. Fonte [Wikipedia](https://en.wikipedia.org/wiki/Fat-Free_Framework)
+
+
 ### - Flight
+
+Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications. Fonte [Site Projeto](http://flightphp.com/)
+
+
 
 ### - Hazaar MVC
 
 ### - Jelix 
 
+Jelix é um framework open source, MVC, permitindo o desenvolvimento de qualquer tipo de aplicação. Ele é um framework para PHP5, criado no final de 2005 por um francês Laurent Jouanneau. O site do projeto inaugurado oficialmente em 1 de Janeiro de 2006. Originalmente, o projeto era um fork do framework Copix (incluindo Laurent Jouanneau foi um dos principais desenvolvedores), mas muito rapidamente o core foi completamente reescrito com outro MVC, e agora resta apenas algumas partes do Copix desde a versão 1.0 beta
+
+
+
 ### - Kohana PHP
+
+Kohana foi originalmente criado como um fork do framework PHP CodeIgniter sob o nome de Blue Flame. A principal razão do fork, foi criar um framework desenvolvido pela comunidade, por muitos usuários ficarem frustrados com o CodeIgniter pela falta de correções de bugs e inserção de novas funcionalidades solicitadas pela comunidade. Em julho de 2007, o Blue Flame foi renomeado para Kohana, para evitar possíveis problemas de marca registrada. O nome Kohana foi escolhido, quando os desenvolvedores começaram a olhar em dicionários de nativos americanos para encontrar palavras que tivessem pouca possibilidade de conflitos com direitos autorais. Kohana é uma palavra dos Sioux para 'rápido'. Também é a palavra japonesa para 'pequena flor', ucraniano e polonês para a palavra 'amado' (só do sexo feminino) e o nome de uma famosa baleia assassina (Kohana) - nenhum dos quais possui relação ao significado original pretendido.
+
+Enquanto a versão inicial do Kohana, foi essencialmente uma versão melhorada do CodeIgniter, no final de 2007, a equipe do Kohana tinha liberado a versão 2.0, que foi completamente reescrita do zero. A nova versão 2.0 foi estritamente escrita em PHP5 e formou a base para todas as outras versões desde então. Fonte [Wikpedia](https://pt.wikipedia.org/wiki/Kohana_Framework)
+
 
 ### - Yii Framework
 
@@ -87,7 +115,12 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 *GitHUB:* [github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)
 
+
 ### - Laravel
+
+
+Laravel é um framework PHP livre e open-source criado por Taylor Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC (model, view controller). Algumas características proeminentes do Laravel são sua sintaxe simples e concisa, um sistema modular com gerenciador de dependencias dedicado, várias formas de acesso a banco de dados relacionais e vários utilitários indispensáveis no auxílio ao desenvolvimento e manutenção de sistemas.  [Wikipedia](https://pt.wikipedia.org/wiki/Laravel)
+
 
 ### - Li3
 
