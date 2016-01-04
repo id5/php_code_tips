@@ -32,7 +32,8 @@ Agavi is a PHP web application framework that follows the Model-view-controller 
 
 ### - Agile ToolKit
 
-Agile Toolkit PHP oferece uma maneira fácil e livre de preocupações para construir, implantar e aplicações web escala . Se você é novo no desenvolvimento web, Agile Toolkit é a maneira mais fácil de obter o seu aplicativo da web on- line.
+Agile Toolkit PHP oferece uma maneira fácil e livre de preocupações para construir, implantar e aplicações web escala . Se você é novo no desenvolvimento web, Agile Toolkit é a maneira mais fácil de obter o seu aplicativo da web on- line. Fonte [Book For Agile ToolKit ](http://book.agiletoolkit.org/)
+
 
 ### - Akelos PHP
 
