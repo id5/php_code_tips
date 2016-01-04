@@ -19,7 +19,7 @@ Ajude editando e melhorando essa sessão. Quando editar lembre-se que não é um
 
 Adianti Framework para PHP é uma arquitetura open-source baseada em padrões de projeto, voltada para a criação ágil de aplicações de negócio em PHP. Busca reduzir os custos de desenvolvimento por oferecer componentes de alto nível para criação de formulários, datagrids, relatórios e outros. Voltado para o desenvolvimento de sistemas; Oferece componentes de alto nível; Manipulação simplificada do banco de dados; Templates para criação de sistemas; Controle de login, permissão de acesso, logs. Fonte [Site Adianti.com.br](http://www.adianti.com.br/framework)
 
-
+------------
 
 ### - Agavi
 
@@ -27,13 +27,14 @@ Adianti Framework para PHP é uma arquitetura open-source baseada em padrões de
 
 Agavi is a PHP web application framework that follows the Model-view-controller design pattern. It does not use the convention over configuration paradigm, but focuses on design decisions, which allow for better scalability. Fonte [Wikipedia](https://en.wikipedia.org/wiki/Agavi)
 
-
-
+------------
 
 ### - Agile ToolKit
 
 Agile Toolkit PHP oferece uma maneira fácil e livre de preocupações para construir, implantar e aplicações web escala . Se você é novo no desenvolvimento web, Agile Toolkit é a maneira mais fácil de obter o seu aplicativo da web on- line. Fonte [Book For Agile ToolKit ](http://book.agiletoolkit.org/)
 
+
+------------
 
 ### - Akelos PHP
 
@@ -41,13 +42,19 @@ O Akelos é um framework de código aberto portado do Ruby on Rails para a lingu
 
 O principal objetivo do Akelos Framework é ajudar os programadores a criar aplicações web multilingua com banco de dados de acordo com o padrão MVC . Ele permite que você escreva menos código, favorecendo convenções sobre configuração. Fonte [GitHub](https://github.com/akelos/akelos)
 
-
+------------
 
 ### - Aura For PHP
 
+------------
+
 ### - Banshee 
 
+------------
+
 ### - ClanCats
+
+------------
 
 ### - CakePHP
 
@@ -63,6 +70,7 @@ O Cake-PHP utiliza conceitos de engenharia de software e padrões de projeto bem
 
 **GitHUB:** [github.com/cakephp/cakephp/](https://github.com/cakephp/cakephp/)
 
+------------
 
 ### - CodeIgniter
 
@@ -72,25 +80,30 @@ CodeIgniter foi desenvolvido sobre o paradigma da programação Orientada a Obje
 
 Este padrão de arquitetura de software vem sendo adotado como uma solução para a separação das camadas de código e abstrações de objetos por diversas outras plataformas e linguagens de programação como o ASP.NET, Java, Ruby on Rails entre outros. Essa recorrência no uso desta arquitetura tem feito autores apontarem MVC também como um design pattern. Fonte [Wikipedia](https://pt.wikipedia.org/wiki/CodeIgniter)
 
+------------
 
 ### - Fat-Free Framework
 
 Fat-Free Framework is an open-source web application framework distributed under the GNU General Public License and hosted by GitHub and Sourceforge. The source code (~50KB) is written almost entirely in PHP and engineered specifically with user experience and usability as its primary design goals.  Commonly called F3 by PHP developers, Fat-Free was released as free software in 2009. Fonte [Wikipedia](https://en.wikipedia.org/wiki/Fat-Free_Framework)
 
+------------
 
 ### - Flight
 
 Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications. Fonte [Site Projeto](http://flightphp.com/)
 
 
+------------
 
 ### - Hazaar MVC
+
+------------
 
 ### - Jelix 
 
 Jelix é um framework open source, MVC, permitindo o desenvolvimento de qualquer tipo de aplicação. Ele é um framework para PHP5, criado no final de 2005 por um francês Laurent Jouanneau. O site do projeto inaugurado oficialmente em 1 de Janeiro de 2006. Originalmente, o projeto era um fork do framework Copix (incluindo Laurent Jouanneau foi um dos principais desenvolvedores), mas muito rapidamente o core foi completamente reescrito com outro MVC, e agora resta apenas algumas partes do Copix desde a versão 1.0 beta
 
-
+------------
 
 ### - Kohana PHP
 
@@ -98,6 +111,7 @@ Kohana foi originalmente criado como um fork do framework PHP CodeIgniter sob o 
 
 Enquanto a versão inicial do Kohana, foi essencialmente uma versão melhorada do CodeIgniter, no final de 2007, a equipe do Kohana tinha liberado a versão 2.0, que foi completamente reescrita do zero. A nova versão 2.0 foi estritamente escrita em PHP5 e formou a base para todas as outras versões desde então. Fonte [Wikpedia](https://pt.wikipedia.org/wiki/Kohana_Framework)
 
+------------
 
 ### - Yii Framework
 
@@ -115,32 +129,53 @@ Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Yii)
 
 *GitHUB:* [github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)
 
+------------
 
 ### - Laravel
 
-
 Laravel é um framework PHP livre e open-source criado por Taylor Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC (model, view controller). Algumas características proeminentes do Laravel são sua sintaxe simples e concisa, um sistema modular com gerenciador de dependencias dedicado, várias formas de acesso a banco de dados relacionais e vários utilitários indispensáveis no auxílio ao desenvolvimento e manutenção de sistemas.  [Wikipedia](https://pt.wikipedia.org/wiki/Laravel)
 
+------------
 
 ### - Li3
 
+------------
+
 ### - Lumen MicroFramework
+
+------------
 
 ### - Mako Framework
 
+------------
+
 ### - Mouf
+
+------------
 
 ### - Nette
 
+------------
+
 ### - PHPDevShell
+
+------------
 
 ### - PHPixie
 
+------------
+
 ### - PHP Coupé
+
+------------
 
 ### - PHP Fuel
 
+------------
+
 ### - Phalcon PHP
+
+------------
 
 ### - Prado PHP Framework
 
@@ -150,31 +185,41 @@ O PRADO é um framework de desenvolvimento de aplicações web em PHP5 que utili
 
 Uma de suas principais características é a realização de código, ou seja, o desenvolvimento utiliza não só o seu próprio código, mas também aproveita outros códigos escritos por membros de sua equipe ou mesmo disponíveis na internet, de forma rápida e fácil. Fonte [DevMidea](http://www.devmedia.com.br/apresentando-o-framework-php-prado/27526)
 
+------------
 
 ### - Silex 
 
+------------
 
 ### - Simple PHP Framework
 
+------------
 
 ### - Symfony 
 
+------------
 
 ### - Slim MicroFramework For PHP
 
+------------
 
 ### - SolarPHP
   
-  
+------------
+
 ### - ThinkPHP
 
+------------
 
 ### - Zend Framework
 
 Zend Framework é um framework para aplicações Web de código aberto, orientado a objetos, implementado em PHP 5 e licenciado sob a New BSD License. Zend Framework—freqüentemente referido como ZF—é desenvolvido com o objetivo de simplificar o desenvolvimento web enquanto promove as melhores práticas na comunidade de desenvolvedores PHP.
 A arquitetura use-a-vontade do ZF permite que os desenvolvedores reutilizem componentes quando e onde eles fizerem sentido em suas aplicações sem requerer outros componentes ZF além das dependências mínimas. Não há portanto nenhum paradigma ou padrão que todos os usuários Zend Framework devam seguir, embora ZF forneça componentes para os padrões de projeto MVC e Table Gateway que são usados na maioria das aplicações ZF. Fonte [Wikipedia](https://pt.wikipedia.org/wiki/Zend_Framework)
 
+------------
+
 ### - Ziluka
 
-### - Zoop PHP Framework
+------------
 
+### - Zoop PHP Framework
